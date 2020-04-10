@@ -1,0 +1,14 @@
+Data type usage
+Which data type would you use if you wanted your data to be immutable and ordered?
+
+Answer the question
+50 XP
+Possible Answers
+List.
+String.
+Tuple.
+Set.
+
+
+
+List
